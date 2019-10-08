@@ -1,0 +1,17 @@
+table,
+td {
+    border: 1px solid #00FA9A;
+}
+
+thead,
+tfoot {
+    background-color: #00FA9A;
+    color: #fff;
+}
+h1 {
+	color:#3CB371;
+}
+
+h2 {
+	color:#3CB371;
+}
